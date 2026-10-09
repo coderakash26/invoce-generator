@@ -1,0 +1,7 @@
+{
+  "name": "Invoice Generator",
+  "description": "Invoice generator web application imported from coderakash26/invoce-generator.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
